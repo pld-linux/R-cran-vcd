@@ -3,7 +3,7 @@
 Summary:	Visualizing Categorical Data
 Name:		R-cran-%{modulename}
 Version:	1.3r1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Math
 Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
